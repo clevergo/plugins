@@ -27,7 +27,7 @@ func (pm *Manager) Open(name string) (*plugin.Plugin, error) {
 	return plugin.Open(path.Join(pm.Path, name))
 }
 
-// Lookup searchs for a symbol named symName in a plugin named pluginName.
+// Lookup searches for a symbol named symName in a plugin named pluginName.
 func (pm *Manager) Lookup(pluginName, symName string) (plugin.Symbol, error) {
 	p, err := pm.Open(pluginName)
 	if err != nil {
