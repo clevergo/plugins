@@ -4,6 +4,7 @@
 [![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/clevergo.tech/plugins?tab=doc)
 [![Go Report Card](https://goreportcard.com/badge/github.com/clevergo/plugins?style=flat-square)](https://goreportcard.com/report/github.com/clevergo/plugins)
 [![Release](https://img.shields.io/github/release/clevergo/plugins.svg?style=flat-square)](https://github.com/clevergo/plugins/releases)
+[![Downloads](https://img.shields.io/endpoint?url=https://pkg.clevergo.tech/api/badges/downloads/total/clevergo.tech/plugins&style=flat-square)](https://pkg.clevergo.tech/clevergo.tech/plugins)
 [![Chat](https://img.shields.io/badge/chat-telegram-blue?style=flat-square)](https://t.me/clevergotech)
 [![Community](https://img.shields.io/badge/community-forum-blue?style=flat-square&color=orange)](https://forum.clevergo.tech)
 
